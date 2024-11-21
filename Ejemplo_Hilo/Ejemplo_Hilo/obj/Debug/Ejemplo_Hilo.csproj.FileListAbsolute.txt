@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\bin\Debug\Ejemplo_Hilo.exe.config
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\bin\Debug\Ejemplo_Hilo.exe
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\bin\Debug\Ejemplo_Hilo.pdb
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\obj\Debug\Ejemplo_Hilo.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\obj\Debug\Ejemplo_Hilo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\obj\Debug\Ejemplo_Hilo.exe
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Hilo\Ejemplo_Hilo\obj\Debug\Ejemplo_Hilo.pdb
